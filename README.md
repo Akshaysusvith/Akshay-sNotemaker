@@ -1,4 +1,4 @@
-**** AUTOMATED NOTES MAKER ****
+**** AKSHAY'S NOTES MAKER ****
 
 "Efficient note taking everywhere"
          
